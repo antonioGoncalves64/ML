@@ -1,4 +1,4 @@
-<img src="images/robe.png" alt="drawing" width="200"/>
+<img src="images/robby.png" alt="drawing" width="200"/>
 
 ## Lab Linear Regression Model with One Variable
 
