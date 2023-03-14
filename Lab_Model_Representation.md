@@ -1,6 +1,6 @@
-<img src="robe.png" alt="drawing" width="200"/>
+<img src="images/robe.png" alt="drawing" width="200"/>
 
-## Linear Regression Model with One Variable
+## Lab Linear Regression Model with One Variable
 
 
 
@@ -9,4 +9,4 @@
 </a>
 
 
-
+Linear Regression with one variable is also called as “univariate linear regression”. This is just more fancy way to call it. Linear regression with one variable is used when you want to predict a single output value from a single input value. That means you only have one x as input(attribute) and one y as output.
