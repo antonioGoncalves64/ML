@@ -1,12 +1,12 @@
-<img src="python.png" alt="drawing" width="200"/>
+<img src="robe.png" alt="drawing" width="200"/>
 
-## Function Programming
+## Linear Regression Model with One Variable
 
 
 
-<a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/ML/blob/main/LabFunctionalProgramming.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/ML/blob/main/Lab_Model_Representation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 
-A pure function is a function whose output value follows solely from its input values, without any observable side effects. In functional programming, a program consists entirely of evaluation of pure functions. Computation proceeds by nested or composed function calls, without changes to state or mutable data.
+
