@@ -1,7 +1,7 @@
 <img src="images/robby.png" alt="drawing" width="200"/>
 
 # Lab End-to-End Machine Learning Project
-## Simple Linear Regression
+## Linear Regression with one Variable
 
 
 
@@ -10,4 +10,4 @@
 </a>
 
 
-In  this laboratory you will work through an example project end to end, pretending to be a recently hired data scientist at a real estate company. This example is fictitious; the goal is to illustrate the main steps of a machine learning project, not to learn anything about the real estate business
+Linear Regression with one variable is also called as “univariate linear regression”. This is just more fancy way to call it. Linear regression with one variable is used when you want to predict a single output value from a single input value. That means you only have one x as input(attribute) and one y as output.
