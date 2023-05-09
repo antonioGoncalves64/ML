@@ -5,7 +5,7 @@
 
 
 
-<a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/ML/blob/main/Lab_end_to_end_machine_learning_project_Linear_Regression_one_Variable.ipynb.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/ML/blob/main/Lab_end_to_end_machine_learning_project_Linear_Regression_one_Variable.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
