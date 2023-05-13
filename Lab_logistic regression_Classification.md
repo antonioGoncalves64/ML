@@ -4,7 +4,7 @@
 
 
 
-<a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/ML/blob/main/Lab_logistic regression_Classification.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/ML/blob/main/Lab_logistic_regression_Classification.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
