@@ -7,6 +7,10 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+<a target="_blank" href="https://kaggle.com/kernels/welcome?src=https://github/antonioGoncalves64/ML/blob/lab_sklearn_Logistic_Regression_With_HeartDataset.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a>
+  </td>
+</table>
+
 
 
 
