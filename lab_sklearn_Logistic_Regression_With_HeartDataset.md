@@ -3,7 +3,7 @@
 ## Lab sklearn Logistic Regression 
 
 
-<a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/ML/blob/main/Lab_sklearn_Logistic_Regression_With_HeartDataset.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/ML/blob/main/lab_sklearn_Logistic_Regression_With_HeartDataset.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
