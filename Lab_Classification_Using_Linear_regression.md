@@ -1,10 +1,10 @@
 <img src="images/robby.png" alt="drawing" width="200"/>
 
-## Lab Logistic Regression Classification.
+## Lab Classification Using Linear Regression
 
 
 
-<a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/ML/blob/main/Lab_logistic_regression_Classification.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/ML/blob/main/Lab_Classification_Using_Linear_regressionipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
